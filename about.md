@@ -3,8 +3,7 @@ layout: page
 title: Introductory Report
 ---
 
-Heading
-=======
+
 
 ## Short description of the concept
 
