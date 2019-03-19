@@ -1,9 +1,10 @@
 ---
-title: Project site
+title: TXJT team | Principles of Digital Fabrication
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "http://blog.ecodeers.com/wp-content/uploads/2016/11/IMG_2544.jpg"
 feature_text: |
-  ## Principles of digital fabrication
+  ## TXJT team
+  # Principles of Digital Fabrication
 ---
 
 There isn't much going on here yet, but watch this space
