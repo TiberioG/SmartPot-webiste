@@ -33,9 +33,9 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   Home: /
-  Introductory report: /about/
+  Introductory report: /report/
   Blog: /blog/
-  Bill of Materials: /bom/
+  Bill of Materials: /material/
   Repo: "https://github.com/txjt/SmartPot"
 
 # Footer nav
