@@ -19,7 +19,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'http://txjt.ml'
+url: 'https://www.txjt.netlify.com'
 baseurl: ''
 title: 'TXJT team | Principles of Digital Fabrication'
 description: 'SmartPot'
