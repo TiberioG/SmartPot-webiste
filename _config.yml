@@ -36,7 +36,7 @@ navigation_header:
   Introductory report: /about/
   Blog: /blog/
   Bill of Materials: /bom/
-  Repo: /"https://github.com/txjt/SmartPot"/
+  Repo: "https://github.com/txjt/SmartPot"
 
 # Footer nav
 navigation_footer:
