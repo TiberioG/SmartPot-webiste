@@ -1,7 +1,7 @@
 ---
 title: TXJT team | Principles of Digital Fabrication
 layout: page
-feature_image: "http://blog.ecodeers.com/wp-content/uploads/2016/11/IMG_2544.jpg"
+feature_image: "https://wallpapercave.com/wp/wp1913752.jpg"
 feature_text: |
   ## TXJT team
   # Principles of Digital Fabrication
