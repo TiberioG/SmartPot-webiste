@@ -34,7 +34,18 @@ paginate_path: blog/page:num
 navigation_header:
   Home: /
   Introductory report: /report/
-  Blog: /blog/
+  Blog: 
+  <ul>
+    <li>
+      <h3>All posts<h3/>
+    <li/>
+    <li>
+      <h3>Week 1<h3/>
+    <li/>
+    <li>
+      <h3>Week 2<h3/>
+    <li/>
+  <ul/>
   Bill of Materials: /material/
   Repo: "https://github.com/txjt/SmartPot"
 
