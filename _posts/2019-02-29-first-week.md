@@ -10,7 +10,7 @@ First week, we have a team! Tiberio and Zifan created the website by using alemb
 In the beginning, we are thinking about creating a moving flower pot which will lead the plant towards the sunlight whihch may use several sensors of lightness on mutiple directions of this pot. Considering the same idea of flower pot, Jussi said we could add the functionality of auto-watering with a sensor of humidity. Tepio provided an advanced version of recognition device with a camera. It's a good idea but it's better to start with simple functionnality and then implement it. So we finally decide to focus on the auto-watering design first.
 Tasks allocation:
 |        Task   | Name          |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Website deployment | Tiberio Galbiati|
 | Sketching ideas    |   together      |
 | Website implementation | Zifan Xiao   |
