@@ -26,7 +26,7 @@ The main idea of the valve is to use a steel ball to stop the waterflow and use 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/sensor.jpg" caption="sensor" width="320" %}  
 
 <p>
-As for the sensor,
+As for the sensor, the idea is creating two conductive line close together and measure voltage, that changes when the humidity of soil changes
 </p>
 
 <h5 id="tasks-allocation" style="display:inline-block">Tasks allocation:</h5>  
