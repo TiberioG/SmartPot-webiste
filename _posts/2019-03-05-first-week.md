@@ -17,8 +17,8 @@ feature_image: "https://picsum.photos/2560/600?image=872"
      alt="The pot"
      style="float: left; margin: 10px;display:inline;" with="450" height="368"/> -->
 
-![Brain storming](http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg =260x368)
-![The pot](http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg =400x)
+[Brain storming](http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg =260x368 "Brain storming")
+[The pot](http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg =400x)
 <!-- 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg" caption="brain storming" width="300" height="425" border="solid 3px rgba(0,0,0,0.2)"%}
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" caption="The pot" width="400" height="300" %} -->
