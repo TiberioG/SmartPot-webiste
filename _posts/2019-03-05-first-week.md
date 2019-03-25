@@ -10,16 +10,16 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 </p>
 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg" caption="brain storming" width="300" height="425" %}
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" caption="The pot" width="400" height="300" %}
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" caption="The pot" width="400" height="300" %}  
 
 <p>
 In the beginning, we were thinking about creating a moving flower pot which would lead the plant towards the sunlight whihch may use several sensors of lightness on mutiple directions of this pot. Considering the same idea of flower pot, Jussi said we could add the functionality of auto-watering with a sensor of humidity. Tepio provided an advanced version of recognition device with a camera. It's a good idea but it's better to start with simple functionnality and then implement it. So we finally decide to focus on the auto-watering design first.  
 </p>
 
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/Pot+reservoir.jpg" caption="Pot+reservoir" position="left" width="300" height="800" %}
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/reservoir+valve_page.jpg" caption="reservoir+valve" position="right" width="300" height="800" %}
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/Pot+reservoir.jpg" caption="Pot + Reservoir" position="left" width="305" %}
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/reservoir+valve_page.jpg" caption="Reservoir + Valve" position="right" width="305" %}  
 
-##### Tasks allocation:
+##### Tasks allocation:  
 <table style= "word-wrap:break-word;word-break:break-all;">
 <tr>
 <td>Task</td>
