@@ -37,13 +37,3 @@ In the beginning, we were thinking about creating a moving flower pot which woul
 <td>Zifan Xiao</td>
 </tr>
 </table>
-
-<!-- 
-
-|        Task   | Name          |
-| ------------- | ------------- |
-| Website deployment | Tiberio Galbiati|
-| Sketching ideas    |   together      |
-| Website implementation  | Zifan Xiao   |
-| 3D modeling | Tepio Immonen |
-| First PCB design | Jussi Parviainen | -->
