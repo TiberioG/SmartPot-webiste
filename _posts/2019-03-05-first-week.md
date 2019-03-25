@@ -17,11 +17,9 @@ feature_image: "https://picsum.photos/2560/600?image=872"
      alt="The pot"
      style="float: left; margin: 10px;display:inline;" with="450" height="368"/> -->
 
-[Brain storming](http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg =260x368 "Brain storming")
-[The pot](http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg =400x)
-<!-- 
+
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg" caption="brain storming" width="300" height="425" border="solid 3px rgba(0,0,0,0.2)"%}
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" caption="The pot" width="400" height="300" %} -->
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" caption="The pot" width="400" height="300" %}
 
 <p>
 In the beginning, we were thinking about creating a moving flower pot which would lead the plant towards the sunlight whihch may use several sensors of lightness on mutiple directions of this pot. Considering the same idea of flower pot, Jussi said we could add the functionality of auto-watering with a sensor of humidity. Tepio provided an advanced version of recognition device with a camera. It's a good idea but it's better to start with simple functionnality and then implement it. So we finally decide to focus on the auto-watering design first.  
