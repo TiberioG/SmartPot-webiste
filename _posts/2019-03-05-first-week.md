@@ -9,15 +9,6 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 <p>First week, we have a team! Tiberio and Zifan created the website by using alembic and netify, and started making documentation on it. We also started thinking about possible ideas.  
 </p>
 
-<!-- <img url="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg"
-     alt="brain storming"
-     style="float: left; margin: 10px;display:inline;" with="260" height="368"/>
-
-<img url="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg"
-     alt="The pot"
-     style="float: left; margin: 10px;display:inline;" with="450" height="368"/> -->
-
-
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg" caption="brain storming" width="300" height="425" %}
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" caption="The pot" width="400" height="300" %}
 
@@ -27,6 +18,7 @@ In the beginning, we were thinking about creating a moving flower pot which woul
 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/Pot+reservoir.jpg" caption="Pot+reservoir" position="left" width="300" height="800" %}
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/reservoir+valve_page.jpg" caption="reservoir+valve" position="right" width="300" height="800" %}
+
 ##### Tasks allocation:
 <table style= "word-wrap:break-word;word-break:break-all;">
 <tr>
