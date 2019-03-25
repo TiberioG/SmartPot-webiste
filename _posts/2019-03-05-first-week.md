@@ -16,8 +16,8 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 In the beginning, we were thinking about creating a moving flower pot which would lead the plant towards the sunlight whihch may use several sensors of lightness on mutiple directions of this pot. Considering the same idea of flower pot, Jussi said we could add the functionality of auto-watering with a sensor of humidity. Tepio provided an advanced version of recognition device with a camera. It's a good idea but it's better to start with simple functionnality and then implement it. So we finally decide to focus on the auto-watering design first.  
 </p>
 
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/Pot+reservoir.jpg" caption="Pot + Reservoir" position="left" width="320" %}
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/reservoir+valve_page.jpg" caption="Reservoir + Valve" position="right" width="320" %}  
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/Pot+reservoir.jpg" caption="Pot + Reservoir" width="320" %}
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/reservoir+valve_page.jpg" caption="Reservoir + Valve" width="320" %}  
 
 <p>
 The main idea of the valve is to use a steel ball to stop the waterflow and use a coil to lift and open it. Thus, we make the reservoir on the top to hold the water.
