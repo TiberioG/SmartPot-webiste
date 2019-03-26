@@ -10,8 +10,8 @@ SmartPot is an intelligent watering system for flower pots. It uses a soil humid
 
 ### Description of how you arrived at your design
 
-The first idea was creating a moving flower pot, with light photodiodes all around to get which side was the brightest and then make the pot move toward the light. It was a cool idea but not for the plant since it would have been disoriented. 
-Then, we decided to create something to solve another problem, watering, of plants. People may find it really hard to remember watering their plants on time or they may leave their house for a long time so that they can't keep the plants alive. It will be helpful to have a tool to help them watering their plants.
+<p>The first idea was creating a moving flower pot, with light photodiodes all around to get which side was the brightest and then make the pot move toward the light. It was a cool idea but not for the plant since it would have been disoriented. </p>
+<p>Then, we decided to create something to solve another problem, watering, of plants. People may find it really hard to remember watering their plants on time or they may leave their house for a long time so that they can't keep the plants alive. It will be helpful to have a tool to help them watering their plants.</p>
 
 
 
