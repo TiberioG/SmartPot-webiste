@@ -4,7 +4,7 @@ title: Bill of Materials
 ---
 
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>Designator</th><th>Comment</th><th>Digikey part number</th><th>Quantity</th></tr></thead><tbody>
+<thead><tr style="background-color:#ADADAD;color:#fff"><th>Designator</th><th>Comment</th><th>Digikey part number</th><th>Quantity</th></tr></thead><tbody>
  <tr><td>D3</td><td>Flyback diode</td><td>2N222 from El. Eng. Guild</td><td>1</td></tr>
  <tr><td>P1</td><td>Pump_conn</td><td>Solder to PCB</td><td>1</td></tr>
  <tr><td>P2 - P5</td><td>Header for arduino</td><td>from El. Eng. Guild</td><td>4</td></tr>
