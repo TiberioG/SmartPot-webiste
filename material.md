@@ -2,7 +2,7 @@
 layout: page
 title: Bill of Materials
 ---
-
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
 <table class="tableizer-table">
 <thead><tr style="background-color:#ADADAD;color:#fff"><th>Designator</th><th>Comment</th><th>Digikey part number</th><th>Quantity</th></tr></thead><tbody>
  <tr><td>D3</td><td>Flyback diode</td><td>2N222 from El. Eng. Guild</td><td>1</td></tr>
@@ -13,19 +13,3 @@ title: Bill of Materials
  <tr><td>R3</td><td>Resistor 499</td><td>311-499FRCT-ND</td><td>1</td></tr>
  <tr><td>U1</td><td>Arduino Uno</td><td>1050-1024-ND</td><td>1</td></tr>
 </tbody></table>
-
-table.tableizer-table {
-    font-size: 12px;
-    border: 1px solid #CCC; 
-    font-family: Arial, Helvetica, sans-serif;
-} 
-.tableizer-table td {
-    padding: 4px;
-    margin: 3px;
-    border: 1px solid #CCC;
-}
-.tableizer-table th {
-    background-color: #ADADAD; 
-    color: #FFF;
-    font-weight: bold;
-}
