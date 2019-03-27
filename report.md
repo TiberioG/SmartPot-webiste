@@ -17,4 +17,12 @@ SmartPot is an intelligent watering system for flower pots. It uses a soil humid
 ### First sketches
 Here are the first sketches:
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg" caption="brain storming" width="320" height="425" %}
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" caption="The pot" width="400" height="300" %}  
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/Pot+reservoir.jpg" caption="Pot + Reservoir" width="500" %}
+
+
+We have a reservoir with water which the user can hang on the ceiling or we could design a proper stand for it. Then we would use a siphon to let the water flow into the pot. We will design our valve in this way: a steel ball would stop the flow of water down the pot and when we want to open it we will use a coil to lift it up and let the water flow down.
+
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/sensor.jpg" caption="sensor" width="320" %}  
+
+<p>
+As for the sensor, the idea is creating two conductive line close together and measure voltage, that changes when the humidity of soil changes, this is due to the different dielectric properties of soil when dry or not.
