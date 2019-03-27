@@ -6,14 +6,18 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-<p>First week, we have a team! Tiberio and Zifan created the website by using alembic and netify, and started making documentation on it. We also started thinking about possible ideas.  
-</p>
+First week, we have a team!
+
+Tiberio and Zifan created the website, it's hosted on GitHub and we use [Netlify](https://www.netlify.com) with a [Jekyll](https://jekyllrb.com) template, [Alembic](https://alembic.darn.es). With [Jekyll](https://jekyllrb.com) we can use markdown syntax to build our website and create a blog without having a dynamic website hosting, with SQL database and PHP. We just need to add markdown files and push them to the repo of website and then the [Netlify](https://www.netlify.com) GitHub extension will build and host the website for us. We had also to find a free 2nd level domain (txjt.ml) from [Freenom](https://www.freenom.com/en/index.html?lang=en) for the website to redirect to the 3rd level free one from Netlify. 
+
+
+
 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg" caption="brain storming" width="320" height="425" %}
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" caption="The pot" width="400" height="300" %}  
 
 <p>
-In the beginning, we were thinking about creating a moving flower pot which would lead the plant towards the sunlight whihch may use several sensors of lightness on mutiple directions of this pot. Considering the same idea of flower pot, Jussi said we could add the functionality of auto-watering with a sensor of humidity. Tepio provided an advanced version of recognition device with a camera. It's a good idea but it's better to start with simple functionnality and then implement it. So we finally decide to focus on the auto-watering design first.  
+In the beginning, we were thinking about creating a moving flower pot which would lead the plant towards the sunlight which may use several photodiodes on multiple directions of this pot. Considering the same idea of flower pot, Jussi said we could add the functionality of auto-watering with a sensor of humidity. Tepio provided an advanced version of recognition device with a camera. It's a good idea but it's better to start with simple functionnality and then implement it. So we finally decide to focus on the auto-watering design first.  
 </p>
 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/Pot+reservoir.jpg" caption="Pot + Reservoir" width="320" %}
@@ -30,7 +34,7 @@ As for the sensor, the idea is creating two conductive line close together and m
 </p>
 
 <h5 id="tasks-allocation" style="display:inline-block">Tasks allocation:</h5>  
-  
+
 <table style= "word-wrap:break-word;word-break:break-all;">
 <tr>
 <td>Task</td>
