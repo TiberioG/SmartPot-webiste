@@ -20,14 +20,14 @@ We worked also on our first idea of flower pot:
 In the beginning, we were thinking about creating a moving flower pot which would lead the plant towards the sunlight which may use several photodiodes on multiple directions of this pot. Considering the same idea of flower pot, Tapio said we could add the functionality of auto-watering with a sensor of humidity. Another idea was adding also LEDs to make the plant grow faster. It's a good idea but it's better to start with simple functionality and then implement it. So we finally decided to focus on the auto-watering design first.  
 </p>
 
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/Pot+reservoir.jpg" caption="Pot + Reservoir" width="320" %}
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/reservoir+valve_page.jpg" caption="Reservoir + Valve" width="320" %}  
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/Pot+reservoir.jpg" caption="Pot + Reservoir" width="600" %}
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/reservoir+valve_page.jpg" caption="Reservoir + Valve" width="600" %}  
 
 <p>
 We have a reservoir with water which the user can hang on the ceiling or we could design a proper stand for it. Then we would use a siphon to let the water flow into the pot. We will design our valve in this way: a steel ball would stop the flow of water down the pot and when we want to open it we will use a coil to lift it up and let the water flow down.
 </p>
 
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/sensor.jpg" caption="sensor" width="320" %}  
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/sensor.jpg" caption="sensor" width="600" %}  
 
 <p>
 As for the sensor, the idea is creating two conductive line close together and measure voltage, that changes when the humidity of soil changes, this is due to the different dielectric properties of soil when dry or not.
