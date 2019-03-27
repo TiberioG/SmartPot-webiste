@@ -6,9 +6,10 @@ feature_text: |
   # TXJT team
   ## Principles of Digital Fabrication
 ---
-Welcome to this website of TXJT team's digi-fab project! Here we share everything about this project. First ideas, sketches, trials, failues and finally how it succeed.
+Welcome to this website of TXJT team's digi-fab project! Here we share everything about this project. First ideas, sketches, trials, failures and finally how it succeed.
 
-This is a site using [Alembic](https://alembic.darn.es).
+You can find the Introductory Report with the description of our main idea.
 
+In the Blog section we tell what we've been doing each week to develop the project.
 
-There isn't much going on here yet, but watch this space
+In Repo you cna find the link to our GitHub repository with all the original files.
