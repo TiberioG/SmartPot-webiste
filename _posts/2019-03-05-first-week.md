@@ -24,7 +24,7 @@ In the beginning, we were thinking about creating a moving flower pot which woul
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/reservoir+valve_page.jpg" caption="Reservoir + Valve" width="320" %}  
 
 <p>
-We have a reservoir with water which the user can hang on the ceiling or we could design a proper stand for it. Then we would use a siphon to let the water flow into the pot. We will design our valve in this way: a steel ball would stop the flow of water down the pot
+We have a reservoir with water which the user can hang on the ceiling or we could design a proper stand for it. Then we would use a siphon to let the water flow into the pot. We will design our valve in this way: a steel ball would stop the flow of water down the pot and when we want to open it we will use a coil to lift it up and let the water flow down.
 </p>
 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/sensor.jpg" caption="sensor" width="320" %}  
