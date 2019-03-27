@@ -9,7 +9,7 @@ title: Bill of Materials
     Download</a>
 </div>
 <table class="tableizer-table">
-<thead><tr style="background-color:rgba(165,165,165,0.8)"><th>Designator</th><th>Component</th><th>Digikey part number</th><th>Quantity</th></tr></thead><tbody>
+<thead class = "thead"><tr><th>Designator</th><th>Component</th><th>Digikey part number</th><th>Quantity</th></tr></thead><tbody>
  <tr><td>D3</td><td>Flyback diode</td><td>2N222 from El. Eng. Guild</td><td>1</td></tr>
  <tr><td>P1</td><td>Pump_conn</td><td>Solder to PCB</td><td>1</td></tr>
  <tr><td>P2 - P5</td><td>Header for arduino</td><td>from El. Eng. Guild</td><td>4</td></tr>
