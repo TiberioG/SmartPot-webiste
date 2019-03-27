@@ -6,7 +6,7 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-First week, we have a team!
+First week, we have a team!...
 
 Tiberio and Zifan created the website, it's hosted on GitHub and we use [Netlify](https://www.netlify.com) with a [Jekyll](https://jekyllrb.com) template, [Alembic](https://alembic.darn.es). With [Jekyll](https://jekyllrb.com) we can use markdown syntax to build our website and create a blog without having a dynamic website hosting, with SQL database and PHP. We just need to add markdown files and push them to the repo of website and then the [Netlify](https://www.netlify.com) GitHub extension will build and host the website for us. We had also to find a free 2nd level domain (txjt.ml) from [Freenom](https://www.freenom.com/en/index.html?lang=en) for the website to redirect to the 3rd level free one from Netlify.
 
