@@ -13,9 +13,9 @@ We had also to find a free 2nd level domain (txjt.ml) from [Freenom](https://www
 
 We worked also on our first idea of flower pot:
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg" caption="brain storming" width="320" height="425" %}
-{% include button.html text="open bigger" link="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/brainstorming.jpg" %}
+
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" caption="The pot" width="400" height="300" %}  
-{% include button.html text="open bigger" link="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sketches/the_pot.jpg" %}
+
 <p>
 In the beginning, we were thinking about creating a moving flower pot which would lead the plant towards the sunlight which may use several photodiodes on multiple directions of this pot. Considering the same idea of flower pot, Tapio said we could add the functionality of auto-watering with a sensor of humidity. Another idea was adding also LEDs to make the plant grow faster. It's a good idea but it's better to start with simple functionality and then implement it. So we finally decided to focus on the auto-watering design first.  
 </p>
