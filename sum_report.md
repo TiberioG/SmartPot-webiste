@@ -15,6 +15,7 @@ The aim of our project is to create an intelligent automated flower pot, which w
 
 
 ###Enclosure
+
  We designed a case with integrated water reservoir, the pump and a semi-circular water dispenser. Jussi designed the 3D model and we printed in Fablab.
 
 ## Lessons learned
