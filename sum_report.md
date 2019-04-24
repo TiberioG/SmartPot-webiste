@@ -9,7 +9,6 @@ Here is the summary report of our project.
 The aim of our project is to create an intelligent automated flower pot, which waters the soil automatically when detects it dry. 
 An important part was to develop our own sensor board with integarted Arduino. We wnated to create a capacitive sensor to detect the moisture of soil, instead of buying a ready made.
 
-
 ## Final product
 The final products consist in a sensor board and an enclosure/base with reservoir and pump.
 #### 3D modeling & printing
