@@ -37,6 +37,11 @@ For the final board we decided to use etching since it's a faster method and it 
 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/final-board2.jpeg" caption="Final PCB" width="500" height="800" %}
 
+
+## Final presentation
+Our final presentation is on GitHub : [here](https://github.com/txjt/SmartPot/tree/master/Final%20presentation)
+
+
 ## Lessons learned
 
 For us it was the first time designing an entire sensor by ourself. That was really challenging.
