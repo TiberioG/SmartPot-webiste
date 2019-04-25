@@ -17,9 +17,8 @@ Jussi did the [3D model](https://github.com/txjt/SmartPot/tree/master/models/Con
 
 It consists of several 3D-printed parts: a reservoir, a cover for reservoir used also as base for the flower pot (we bought at supermarket to ensure compatibility with existing pots in market), an arm were we put the peristaltic pump and a semi-circular water dispenser.  
 Tiberio and Xiao printed the reservoir and its attached base of the flower pot. Jussi did the last printing of the arm and then we finally assembled the components together.
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/parts1.jpeg" caption="3D-printed arm with water dispenser" width="500" height="800" %}
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/parts2.jpeg" caption="3D-printed plate " width="500" height="800" %}
-{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/parts3.jpeg" caption="3D-printed bottom reservoir " width="500" height="800" %}
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/finished.png" caption="3D-printed arm with water dispenser" width="500" height="800" %}
+
 ### Sensor & PCB
 Tapio created the [schematics](https://github.com/txjt/SmartPot/blob/master/SmartPot_schematics.pdf) and designed the [PCB](https://github.com/txjt/SmartPot/blob/master/DigiFab_no_MCU.pdf).
 
