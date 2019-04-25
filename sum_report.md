@@ -26,12 +26,17 @@ Tapio created the [schematics](https://github.com/txjt/SmartPot/blob/master/Smar
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/pcb-fin.png" caption="Final PCB draw" width="500" height="800" %}
 
 
-It is an all-in-one solution with capacitive sensor made out of two conductive lines very close to act as a capacitor. On the same board there is the socket for an Arduino Nano and electronics to control both sensor and pump. Tapio and Tiberio created first an etched version of the bare sensor for testing purposes with oscilloscope(see [data](https://github.com/txjt/SmartPot/tree/master/%20osclilloscope) ). Then Tiberio and Xiao went to FabLab to mill a final version using Roland milling machine. It was a chance to learn how this process works. Even though we had some problems with the milling, because the plane was not aligned, Tapio fixed the PCB so Tiberio could start developing the [software](https://github.com/txjt/SmartPot/tree/master/software).
+It is an all-in-one solution with capacitive sensor made out of two conductive lines very close to act as a capacitor. On the same board there is the socket for an Arduino Nano and electronics to control both sensor and pump.
 
+Tapio and Tiberio created first an etched version of the bare sensor for testing purposes with oscilloscope(see [data](https://github.com/txjt/SmartPot/tree/master/%20osclilloscope) ). Then Tiberio and Xiao went to FabLab to mill a final version using Roland milling machine. It was a chance to learn how this process works. Even though we had some problems with the milling, because the plane was not aligned, Tapio fixed the PCB so Tiberio could start developing the [software](https://github.com/txjt/SmartPot/tree/master/software).
 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/sw.png" caption="Arduino code" width="500" height="800" %}
 
+For the final board we decided to use etching since it's a faster method and it guaranteed a perfect result:
 
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/final-board.jpeg" caption="Final PCB" width="500" height="800" %}
+
+{% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/final-board2.jpeg" caption="Final PCB" width="500" height="800" %}
 
 ## Lessons learned
 
