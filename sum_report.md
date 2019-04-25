@@ -20,7 +20,7 @@ Tiberio and Xiao printed the reservoir and its attached base of the flower pot. 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/finished.png" caption="Final prototype" width="500" height="800" %}
 
 ### Sensor & PCB
-Tapio created the [schematics](https://github.com/txjt/SmartPot/blob/master/SmartPot_schematics.pdf) and designed the [PCB](https://github.com/txjt/SmartPot/blob/master/DigiFab_no_MCU.pdf).
+Tapio created the [schematics](https://github.com/txjt/SmartPot/blob/master/SmartPot_schematics.pdf) and designed the [PCB](https://github.com/txjt/SmartPot/blob/master/PCB/PCB_design.pdff).
 
 {% include figure.html image="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/pcb-fin.png" caption="Final PCB draw" width="500" height="800" %}
 
