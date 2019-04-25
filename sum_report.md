@@ -24,4 +24,7 @@ It is an all-in-one solution with capacitive sensor made out of two conductive l
 
 ## Lessons learned
 
-For us it was the first time designing an entire sensor by ourself.
+For us it was the first time designing an entire sensor by ourself. That was really challenging.
+for Tapio, Xiao and Tiberio was also the first time with 3D modelling and 3D printing.
+
+We also learned that the milling machine is not the best tool to create very large PCB since it takes lot of time and it's not easy to have a perfectly aligned mounting, this results in a non-uniform milling.
