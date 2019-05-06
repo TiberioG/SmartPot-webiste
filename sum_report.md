@@ -41,7 +41,15 @@ For the final board we decided to use etching since it's a faster method and it 
 ## Final presentation
 Our final presentation is on GitHub : [here](https://github.com/txjt/SmartPot/tree/master/Final%20presentation)
 
-
+## Final demonstration video
+<video controls width="250">
+    <source src="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/final_1.mp4" type="video/mp4">
+    Your browser does not support HTML5 mp4 video.
+</video> 
+<video controls width="250">
+    <source src="http://tiberiog.cacsite.com/tiberiog.cacsite.com/xiao/final_2.mp4" type="video/mp4">
+    Your browser does not support HTML5 mp4 video.
+</video> 
 ## Lessons learned
 
 For us it was the first time designing an entire sensor by ourself. That was really challenging.
